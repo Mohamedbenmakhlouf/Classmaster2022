@@ -1,0 +1,16 @@
+body {
+
+    background-image: url("image/bg.jpg");
+    background-size: cover;
+    z-index:0 ;
+}
+.active  {
+  background-color: #fff;
+}
+.active ul {
+  background-color: #fff;
+}
+ul a:hover {
+  background-color: #fff;
+}
+
